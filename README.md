@@ -1,6 +1,6 @@
-# {{ cookiecutter.project_name }}
+# OSPO Utilities Repository
 
-{{ cookiecutter.project_description }}
+A repo to house miscellaneous scripts. Scripts may have uses in multiple projects
 
 ## About the Project
 <!-- TODO: Write an about statement for this project. -->
